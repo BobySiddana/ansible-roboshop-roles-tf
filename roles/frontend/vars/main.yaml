@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.backend-{{ env }}.dawsj.space
+USER_HOST: user.backend-{{ env }}.dawsj.space
+CART_HOST: cart.backend-{{ env }}.dawsj.space
+SHIPPING_HOST: shipping.backend-{{ env }}.dawsj.space
+PAYMENT_HOST: payment.backend-{{ env }}.dawsj.space
